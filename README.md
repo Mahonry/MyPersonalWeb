@@ -1,2 +1,2 @@
 # MyPersonalWeb
-Visit https://chricience.xyz
+Visit https://chriscience.xyz
